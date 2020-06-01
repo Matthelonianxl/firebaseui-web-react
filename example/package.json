@@ -6,7 +6,7 @@
     "serve": "firebase serve"
   },
   "dependencies": {
-    "firebase": "^6.3.4",
+    "firebase": "^6.6.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-firebaseui": "4.0.0"
